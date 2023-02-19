@@ -45,9 +45,9 @@ $(function () {
     ],
     albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
     trackUrl = [
-      "https://a.tumblr.com/tumblr_qsvw6qwZ0F1y3brzno1.mp3",
-      "https://a.tumblr.com/tumblr_qsvw88sEYf1y3brzno1.mp3",
-      "https://a.tumblr.com/tumblr_rgpnr65zXT1z0viako1.mp3",
+      "https://kwangyazen.github.io/notion-music/irreplaceable.mp3",
+      "https://kwangyazen.github.io/notion-music/anl.mp3",
+      "https://kwangyazen.github.io/notion-music/bumplove.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
       "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
     ],
