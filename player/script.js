@@ -39,17 +39,13 @@ $(function () {
     trackNames = [
       "nct dream - hello future",
       "nct dream - hello future",
-      "the boyz - be aware",
-      "Jordan Schor - Home",
-      "Martin Garrix - Proxy"
+      "the boyz - be aware"
     ],
-    albumArtworks = ["_1", "_2", "_3", "_4", "_5"],
+    albumArtworks = ["_1", "_2", "_3"],
     trackUrl = [
       "https://kwangyazen.github.io/notion-music/irreplaceable.mp3",
       "https://kwangyazen.github.io/notion-music/anl.mp3",
-      "https://kwangyazen.github.io/notion-music/bumplove.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/4.mp3",
-      "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/music/5.mp3"
+      "https://kwangyazen.github.io/notion-music/bumplove.mp3"
     ],
     playPreviousTrackButton = $("#play-previous"),
     playNextTrackButton = $("#play-next"),
